@@ -1,0 +1,62 @@
+---
+title: "powellDraft_v1.0"
+author: "JLB"
+date: "10/31/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1 Problem Statement
+
+Ecological montoring programs are expensive. Luckily the length of our montuoring programs (and consequently the lenght of hte data) are increasing. However, there does not yet appear to be synergy among or integration ofmany publicly-funded long-term monitoring programs. Although monitring programs locally have thier own management goals and objectives, a common theme emerges from most programs -- increase or conserve biodiversity on the property. It is clear that the efficiency and capacity of site-level managemetn is affected by surroudnign lands, private and public, and  natural and developed. 
+
+Some publicly-funded projects may unknowingly collect data that (a) already exists, (b) does not match any other scheme such that it could be analyzed in harmony with other public data and/or (c) is not amenable to long-term collection or assimilation. Additionally, the data that are available are not typically incorporated into studies. Instead of comparing findings quantitatively, authors of studies typically relate their inference to the inference of other studies (e.g., our results were different than X’s, instead of using the data from both theirs and X’s study).
+
+
+Synergy among these data collection efforts may result in 
+  - an increased asbility to combine and synthesize datasets across taxa and across sites
+
+
+Exceptions to this are progrms that are designed to concurrently collect data that is directly comaprrable among spatial units (e.g., NEON, others?). 
+
+
+### Research questions
+
+Although we have our RQs, we recognize that the comvination of integrating these datasets and conversations with taxonomic experts and site managers may redirect our approahes, or spur new collaborations (adn we shoudl certainly share the results of these discssions witht he public).
+
+
+
+### Background
+	
+i.	Contributions to problems: graduate education and data collection (1-3 seasons of field data; data cannot be easily combined with 
+ii.	Duplication, not replication, may become more common as data accumulates. 
+iii.	Some of the repositories for ecological data, like LTERs or USGS host data, but there is not a way to efficiently gather these data. Fortunately, some efforts to create software for reading and managing these data are available (e.g., NCEAS’s software for reading data from various repositories https://www.nceas.ucsb.edu/ecoinfo
+
+
+## 2 Proposed Activities
+
+
+
+
+## 3 Diversity Statemetn
+
+
+## 4 Data Management Plan
+
+## 5 Participants
+
+## 6 Budget
+
+## END MATTER
+```{r, echo=F, eval=T, warnings= F WordCount}
+
+# Count the # words
+library(qdap)
+# Attach words you want to count to the clipboard
+wc(readLines("clipboard", warn = F))
+
+```
+
