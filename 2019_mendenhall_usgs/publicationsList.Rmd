@@ -29,7 +29,9 @@ output:
 1. **Burnett, J.L.** and M.P. Moulton. 2015. Recent trends in House Sparrow (*Passer domesticus*) distribution and abundance in Gainesville, Alachua County, Florida. *Florida Field Naturalist* 43(4):167-172   
 
 ##First-authored manuscripts under review
+
 1. **Burnett, J.L.**, R. Wilcox, B. Stephen, D. Haak, D. Uden, C.R. Allen, and K. Pope. Shell strength does not limit predation of an invasive snail species (Bellamya chinensis) by native fish. *under review at Journal of Freshwater Ecology*
+
 
 ##First-authored manuscripts in preparation (available upon request)
 
@@ -41,7 +43,23 @@ output:
 
 1. **Burnett, J.L.**, L. Wszola, N. Mirochnitchenko, E. Stuber, M. Bomberger Brown, C.R. Allen, D. Twidwell, and J. Carroll. Large-sacle crop patterns influence Gray Partridge (*Perdix perdix*) site occupancy in North America. 
 
-##R Packages (GitHub user: trashbirdecology)
-**Burnett, J.L.**, N.B. Price. 2018. *regimeDetectionMeasures*. A package for calculating univariate and multivariate regime detection methods using community time series.
+##Co-authored manuscripts in preparation or review
 
-**Burnett, J.L.**, N.B. Price. 2018. *distanceTraveled*. A package for calculating the distance traveled by a multispecies community along a time series. 
+1. Robinson, S.K., **J.L Burnett**, and A. Kratter. *in prep* Population trends of birds of a North Florida Christmas Bird Count: Gainesville, FL. 
+
+
+## R Packages ([see GitHub for additional projects](https://github.com/TrashBirdEcology))
+**Burnett, J.L.**, N.B. Price. 2018. [*regimeDetectionMeasures*](https://github.com/TrashBirdEcology/regimeDetectionMeasures). R package for calculating univariate and multivariate regime detection methods using community time series.
+
+**Burnett, J.L.** 2019.  [*bbsRDM*](https://github.com/TrashBirdEcology/bbsRDM). R package for accessing, downloading, and analyzing the North American Breeding Bird Survey using the *regimeDetectionMeasure* package.
+
+**Burnett, J.L.**, N.B. Price. 2018. [*distanceTraveled*](https://github.com/TrashBirdEcology/distanceTravelled). R package for calculating the distance traveled by a multispecies community along a time series. 
+
+
+## Agency Reports   
+1. **Burnett, J.L.**, Roberts, C.P., Allen, C.R., Angeler, D.G., Twidwell, D. 2017. White Paper: Regime Shift Detection Using Fisher Information. Strategic Environmental Research and Development Program (SERDP), Department of Defense.  
+
+1. Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**, Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change, Vulnerability, and Resilience: Management Options for an Uncertain Future. Strategic Environmental Research and Development Program (SERDP), Department of Defense.  
+
+1. Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M., Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models (BpS) in the Great Plains. LANDFIRE Project. 
+
