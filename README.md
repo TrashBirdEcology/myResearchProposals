@@ -1,4 +1,4 @@
-# myResearchProposals
+# proposals: my fellowship, grant, workshop and symposia proposals
 
 ## My fellowship and grants proposals
 year| org; rfp | lead author | status | resources | on ogrants
